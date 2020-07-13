@@ -1,18 +1,11 @@
-[![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
+# Kaggle Challenges with House Prices: Advanced Regression Techniques :money_with_wings: :house_with_garden:
 
-![Misk Logo](https://i.ibb.co/KmXhJbm/Webp-net-resizeimage-1.png)
-
-
-
-
-# Kaggle Challenges with House Prices: Advanced Regression Techniques
-
----
 
 # About 
 ## The Project 
-- the aim of the project is to creating and iteratively refining a regression model on getting started datasets.
+- This project was one of the required projects in Data Science Immersive Course provided by [General Assembly](https://www.linkedin.com/company/general-assembly-middle-east/).
+- The aim of the project is to creating and iteratively refining a regression model on getting started datasets.
 - Using Kaggle to practice the modeling process and document findings on Kaggle Kernels.
 - Learn from community resources on the platform and collaborate with a physical team.
 
@@ -27,7 +20,7 @@
 - Python Syntax and Control Flow
 
 ## The Dataset 
-[the dataset available at [House prices] in kaggle (https://www.kaggle.com/c/house-prices-advanced-regression-techniques) 
+[the dataset available at [House prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) in kaggle.
 
 
 # Getting Started

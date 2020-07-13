@@ -3,7 +3,7 @@
 
 
 # About 
-## The Project 
+##  * The Project 
 - This project was one of the required projects in Data Science Immersive Course provided by [General Assembly](https://www.linkedin.com/company/general-assembly-middle-east/).
 - The aim of the project is to creating and iteratively refining a regression model.
 - Using Kaggle to practice the modeling process and document findings on Kaggle Kernels.
